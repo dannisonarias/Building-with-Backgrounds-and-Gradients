@@ -5,7 +5,7 @@
   
   a {
     text-decoration: none;
-    color: #0088cc;
+    color: #08c;
   }
   
   .center-link {
@@ -27,7 +27,7 @@
     margin: 0 auto;
     background-image: linear-gradient( #222121, #a09f9f 1%, #696666 1%, #8a8888 50%, #636363 50%, #3b3b3b 100%);
     width: 1100px;
-    transform: translatey(200%);
+    transform: translateY(200%);
   }
   
   nav {
