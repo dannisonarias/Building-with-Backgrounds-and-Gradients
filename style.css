@@ -1,120 +1,100 @@
 * {
-    margin: 0;
-    FONT-FAMILY: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
-  }
-  
-  a {
-    text-decoration: none;
-    color: #08c;
-  }
-  
-  .center-link {
-    text-decoration: none;
-    color: white;
-  }
-  
-  .center-link:hover {
-    text-decoration: underline;
-  }
-  
-  .top-background {
-    background-image: url(img/background1.jpg);
-    background-size: 100% 100%;
-    height: 700px;
-  }
-  
-  header {
-    margin: 0 auto;
-    background-image: linear-gradient( #222121, #a09f9f 1%, #696666 1%, #8a8888 50%, #636363 50%, #3b3b3b 100%);
-    width: 1100px;
-    transform: translateY(200%);
-  }
-  
-  nav {
-    display: flex;
-    height: 37px;
-  }
-  
-  .nav-item {
-    color: white;
-    border-right: 1px solid rgb(126, 124, 124);
-    display: flex;
-    width: 130px;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .nav-item:hover {
-    background-color: rgba(128, 128, 128, 0.329);
-    cursor: pointer;
-  }
-  
-  .fa-search {
-    transform: translateX(17px);
-  }
-  
-  .nav-item input {
-    border: 1px solid rgb(139, 134, 134);
-    background-color: transparent;
-    border-radius: 10px;
-    height: 20px;
-    width: 89px;
-  }
-  
-  .fa {
-    color: white;
-    margin-top: 1px;
-  }
-  
-  h1 {
-    margin-top: 150px;
-    text-align: center;
-    font-size: 4em;
-    color: white;
-    margin-bottom: 20px;
-    font-weight: 100;
-  }
-  
-  article {
-    color: white;
-  }
-  
-  h3 {
-    margin: 0 auto;
-    text-align: center;
-    width: 1000px;
-    margin-bottom: 50px;
-    font-size: 2em;
-    font-weight: lighter;
-  }
-  
-  article p {
-    font-size: 2em;
-    text-align: center;
-    margin: 20px;
-  }
-  
-  aside {
-    display: flex;
-  }
-  
-  aside img {
-    align-items: stretch;
-    width: 100%;
-  }
-  
-  footer {
-    margin-top: 15px;
-    font-size: 0.8em;
-    text-align: center;
-  }
-  
-  .footer-first-row {
-    display: inline-block;
-    text-align: left;
-    padding-right: 20px;
-  }
-  
-  .footer-second-row {
-    margin-top: 15px;
-  }
+	margin: 0;
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #08c;
+}
+.center-link {
+	text-decoration: none;
+	color: white;
+}
+.center-link:hover {
+	text-decoration: underline;
+}
+.top-background {
+	background-image: url(img/background1.jpg);
+	background-size: 100% 100%;
+	height: 700px;
+}
+header {
+	margin: 0 auto;
+	background-image: linear-gradient( #222121, #a09f9f 1%, #696666 1%, #8a8888 50%, #636363 50%, #3b3b3b 100%);
+	width: 1100px;
+	transform: translateY(200%);
+}
+nav {
+	display: flex;
+	height: 37px;
+}
+.nav-item {
+	color: white;
+	border-right: 1px solid rgb(126, 124, 124);
+	display: flex;
+	width: 130px;
+	justify-content: center;
+	align-items: center;
+}
+.nav-item:hover {
+	background-color: rgba(128, 128, 128, 0.329);
+	cursor: pointer;
+}
+.fa-search {
+	transform: translateX(17px);
+}
+.nav-item input {
+	border: 1px solid rgb(139, 134, 134);
+	background-color: transparent;
+	border-radius: 10px;
+	height: 20px;
+	width: 89px;
+}
+.fa {
+	color: white;
+	margin-top: 1px;
+}
+h1 {
+	margin-top: 150px;
+	text-align: center;
+	font-size: 4em;
+	color: white;
+	margin-bottom: 20px;
+	font-weight: 100;
+}
+article {
+	color: white;
+}
+h3 {
+	margin: 0 auto;
+	text-align: center;
+	width: 1000px;
+	margin-bottom: 50px;
+	font-size: 2em;
+	font-weight: lighter;
+}
+article p {
+	font-size: 2em;
+	text-align: center;
+	margin: 20px;
+}
+aside {
+	display: flex;
+}
+aside img {
+	align-items: stretch;
+	width: 100%;
+}
+footer {
+	margin-top: 15px;
+	font-size: 0.8em;
+	text-align: center;
+}
+.footer-first-row {
+	display: inline-block;
+	text-align: left;
+	padding-right: 20px;
+}
+.footer-second-row {
+	margin-top: 15px;
+}
