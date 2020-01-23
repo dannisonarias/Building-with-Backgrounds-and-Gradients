@@ -11,7 +11,7 @@ I used the guidelines from the [Microverse](https://www.microverse.org) curricul
 
 ## Live Demo
 
-Check the GitHack demo [here](https://rawcdn.githack.com/dannisonarias/Building-with-Backgrounds-and-Gradients/ac1068aa5af6087d49d00de85f1d9bcde40467de/index.html)
+Check the GitHack demo [here](https://rawcdn.githack.com/dannisonarias/Building-with-Backgrounds-and-Gradients/9b214f1d746c1af7eff1c43a7e9027e906148b3c/index.html)
 
 ## Getting Started
 
